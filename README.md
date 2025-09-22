@@ -9,10 +9,11 @@ This repository contains a risk-analysis study of how **interest-rate shocks** a
 > **Executive takeaway:** Bank equity returns are **heavy-tailed**, show **persistent volatility clustering**, and display **leverage effects**. Among tested models, **GJR-GARCH(1,1)** produced the most accurate 99% VaR coverage in backtests, while Gaussian/EWMA approaches underestimated tail risk.
 
 
-<div align="center">
-<img src="./figs/ba1.png" width="650"/><br/>
-<em>Power BI Dashboard – Page 1 Executive Snapshot (Portfolio risk KPIs and interest rate shocks)</em>
-</div>
+<p align="center">
+  <img src="figs/bi1.png" width="650"/>
+  <br>
+  <em>Power BI Dashboard – Page 1 Executive Snapshot (Portfolio risk KPIs and interest rate shocks)</em>
+</p>
 
 ---
 
